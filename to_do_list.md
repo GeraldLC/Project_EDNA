@@ -3,7 +3,7 @@
 ---
 
 ## Foundation
-- [*] Git Repo — create, add description, README, LICENSE
+- [x] Git Repo — create, add description, README, LICENSE
 - [ ] Site Template — HTML/CSS structure, responsive layout
 - [ ] Deploy GitHub Pages — enable in repo settings, confirm live URL
 
