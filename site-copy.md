@@ -61,7 +61,7 @@ Jenisa works across the full design process — from concept and space planning 
 
 Have a project in mind? Whether you're starting from scratch or reimagining an existing space, Jenisa would love to hear from you. Good design starts with a conversation.
 
-📧 jenisacarvalho123@gmail.com  
+📧 -
 💼 [linkedin.com/jenisa-carvalho](https://www.linkedin.com/jenisa-carvalho/)
 
 ---
